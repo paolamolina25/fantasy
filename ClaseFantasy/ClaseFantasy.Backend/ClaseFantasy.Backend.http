@@ -1,0 +1,6 @@
+@ClaseFantasy.Backend_HostAddress = http://localhost:5238
+
+GET {{ClaseFantasy.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
